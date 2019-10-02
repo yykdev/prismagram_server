@@ -9,3 +9,5 @@
 > yarn add babel-node
 
 > yarn add babel-cli -D
+
+> yarn add dotenv
