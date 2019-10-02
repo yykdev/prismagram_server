@@ -11,3 +11,5 @@
 > yarn add babel-cli -D
 
 > yarn add dotenv
+
+> yarn add @babel/{node,preset-env}
