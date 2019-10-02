@@ -1,0 +1,9 @@
+{
+  "name": "prismagram_server",
+  "version": "1.0.0",
+  "description": "Instragram clone with Express + Prisma + React and React Native",
+  "main": "index.js",
+  "repository": "https://github.com/yykdev/prismagram_server.git",
+  "author": "yykdev <assavictory@gmail.com>",
+  "license": "MIT"
+}
