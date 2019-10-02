@@ -3,3 +3,5 @@
 > yarn init
 
 > yarn add graphql-yoga
+
+> yarn add nodemon -D
