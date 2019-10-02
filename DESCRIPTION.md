@@ -7,3 +7,5 @@
 > yarn add nodemon -D
 
 > yarn add babel-node
+
+> yarn add babel-cli -D
