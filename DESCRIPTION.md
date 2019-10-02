@@ -5,3 +5,5 @@
 > yarn add graphql-yoga
 
 > yarn add nodemon -D
+
+> yarn add babel-node

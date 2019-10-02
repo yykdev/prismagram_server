@@ -6,6 +6,7 @@
   "author": "yykdev <assavictory@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "babel-node": "^0.0.1-security",
     "graphql-yoga": "^1.18.3"
   },
   "devDependencies": {
